@@ -14,7 +14,7 @@ Coral reefs hold a significant role and value in the protection of underwater li
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
+* Machine Learning (SVM, Naive Bayes, Decision Tree Classifiers)
 * Data Visualization
 * Predictive Modeling
 
