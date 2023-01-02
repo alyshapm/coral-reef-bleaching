@@ -24,6 +24,9 @@ Coral reefs hold a significant role and value in the protection of underwater li
 * sklearn
 * matplotlib
 
+## Project Description
+Our first step is to validate coral reef bleaching based on the available public data. It will be proceeded by testing supervised learning algorithms  to investigate the effects of different factors on coral reefs and create predictive models. The last step will be to evaluate the plots generated from the algorithm and draw a final conclusion.
+
 ## List of dataset
 
 * [NOAA Reef Check & Coral Bleaching Data](https://www.kaggle.com/datasets/oasisdata/noaa-reef-check-coral-bleaching-data).
