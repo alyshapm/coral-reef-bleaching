@@ -27,7 +27,7 @@ Coral reefs hold a significant role and value in the protection of underwater li
 ## List of dataset
 
 * [NOAA Reef Check & Coral Bleaching Data](https://www.kaggle.com/datasets/oasisdata/noaa-reef-check-coral-bleaching-data).
-* [BMO-DNO Global Bleaching & Environmental Data](https://www.bco-dmo.org/dataset/773466) 
+* [BCO-DMO Global Bleaching & Environmental Data](https://www.bco-dmo.org/dataset/773466) 
 
 ## Getting started
 
@@ -35,5 +35,5 @@ Coral reefs hold a significant role and value in the protection of underwater li
 ```bash
 pip 
 ```
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
+2. Raw Data is being kept [here](https://github.com/alyshapm/coral-reef-bleaching/tree/main/dataset) within this repo.
+3. Data processing/transformation scripts are being kept in the respective dataset folders, [NOAA](https://github.com/alyshapm/coral-reef-bleaching/tree/main/NOAA_ReefCheck) and [BCO-DMO](https://github.com/alyshapm/coral-reef-bleaching/tree/main/BCO-DMO).
