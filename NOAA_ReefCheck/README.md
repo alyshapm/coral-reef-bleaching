@@ -3,8 +3,9 @@ This folder contains related files for the NOAA Reef Check & Coral Bleaching dat
 
 # Contents
 - [Dataset Preparation and Preprocessing](./NOAAPrep.ipynb)
-- [Data Visualization](./DataVisualization_NOAA.ipynb)
 - [Prepared Dataset](./NOAA_int.csv)
+- [Data Visualization](./DataVisualization_NOAA.ipynb)
+- [Regression & Features Importance](./Regression_NOAA.ipynb) 
 - [Decision Tree Algorithm](./DecisionTree_NOAA.ipynb)
 - [SVM Algorithm](./SVM_NOAA.ipynb)
 - [Naive Bayes Algorithm](./NaiveBayes_NOAA.ipynb)
