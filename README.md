@@ -1,6 +1,6 @@
 # Predicting Coral Reef Bleaching with Machine Learning
 
-This project is a part of the Fundamentals of Data Science and Basic Statistics final project requirements. Full documentation and paper can be found [here](https://www.overleaf.com/read/xjbbsrmjgczq). 
+This project is a part of the Fundamentals of Data Science and Basic Statistics final project requirements. Full documentation and paper can be found [here](https://docs.google.com/document/d/1egE2OSympimxtCADphQm7I3cNAVWuilPVUM0NNu-enQ/edit). 
 
 #### -- Project Status: [Active]
 
